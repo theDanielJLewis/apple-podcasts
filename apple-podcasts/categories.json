@@ -1,0 +1,801 @@
+[
+	{
+		"id": 26,
+		"name": "all podcasts"
+	},
+	{
+		"id": 1301,
+		"name": "Arts",
+		"children": [1482, 1402, 1459, 1306, 1405, 1406]
+	},
+	{
+		"id": 1482,
+		"name": "Books",
+		"parent": 1301
+	},
+	{
+		"id": 1401,
+		"name": "Literature",
+		"active": false,
+		"replacement": 1482
+	},
+	{
+		"id": 1402,
+		"name": "Design",
+		"parent": 1301
+	},
+	{
+		"id": 1459,
+		"name": "Fashion & Beauty",
+		"parent": 1301
+	},
+	{
+		"id": 1306,
+		"name": "Food",
+		"parent": 1301
+	},
+	{
+		"id": 1405,
+		"name": "Performing Arts",
+		"parent": 1301
+	},
+	{
+		"id": 1406,
+		"name": "Visual Arts",
+		"parent": 1301
+	},
+	{
+		"id": 1321,
+		"name": "Business",
+		"children": [1471, 1410, 1493, 1412, 1491, 1492, 1494]
+	},
+	{
+		"id": 1471,
+		"name": "Business News",
+		"replacement": 1490,
+		"active": false
+	},
+	{
+		"id": 1410,
+		"name": "Careers",
+		"parent": 1321
+	},
+	{
+		"id": 1493,
+		"name": "Entrepreneurship",
+		"parent": 1321
+	},
+	{
+		"id": 1412,
+		"name": "Investing",
+		"parent": 1321
+	},
+	{
+		"id": 1491,
+		"name": "Management",
+		"parent": 1321
+	},
+	{
+		"id": 1492,
+		"name": "Marketing",
+		"parent": 1321
+	},
+	{
+		"id": 1494,
+		"name": "Non-Profit",
+		"parent": 1321
+	},
+	{
+		"id": 1413,
+		"name": "Management & Marketing",
+		"active": false,
+		"replacement": 1321
+	},
+	{
+		"id": 1303,
+		"name": "Comedy",
+		"children": [1496, 1495, 1497]
+	},
+	{
+		"id": 1496,
+		"name": "Comedy Interviews",
+		"parent": 1303
+	},
+	{
+		"id": 1495,
+		"name": "Improv",
+		"parent": 1303
+	},
+	{
+		"id": 1497,
+		"name": "Stand-Up",
+		"parent": 1303
+	},
+	{
+		"id": 1304,
+		"name": "Education",
+		"children": [1501, 1499, 1498, 1500]
+	},
+	{
+		"id": 1501,
+		"name": "Courses",
+		"parent": 1304
+	},
+	{
+		"id": 1499,
+		"name": "How To",
+		"parent": 1304
+	},
+	{
+		"id": 1498,
+		"name": "Language Learning",
+		"parent": 1304
+	},
+	{
+		"id": 1500,
+		"name": "Self-Improvement",
+		"parent": 1304
+	},
+	{
+		"id": 1468,
+		"name": "Educational Technology",
+		"active": false,
+		"replacement": 1304
+	},
+	{
+		"id": 1416,
+		"name": "Higher Education",
+		"active": false,
+		"replacement": 1304
+	},
+	{
+		"id": 1415,
+		"name": "K-12",
+		"active": false,
+		"replacement": 1304
+	},
+	{
+		"id": 1469,
+		"name": "Language Courses",
+		"active": false,
+		"replacement": 1304
+	},
+	{
+		"id": 1470,
+		"name": "Training",
+		"active": false,
+		"replacement": 1304
+	},
+	{
+		"id": 1483,
+		"name": "Fiction",
+		"children": [1486, 1484, 1485]
+	},
+	{
+		"id": 1486,
+		"name": "Comedy Fiction",
+		"parent": 1483
+	},
+	{
+		"id": 1484,
+		"name": "Drama",
+		"parent": 1483
+	},
+	{
+		"id": 1485,
+		"name": "Science Fiction",
+		"parent": 1483
+	},
+	{
+		"id": 1511,
+		"name": "Government"
+	},
+	{
+		"id": 1325,
+		"name": "Government & Organizations",
+		"active": false,
+		"replacement": 1511
+	},
+	{
+		"id": 1475,
+		"name": "Local",
+		"active": false,
+		"replacement": 1511
+	},
+	{
+		"id": 1473,
+		"name": "National",
+		"active": false,
+		"replacement": 1511
+	},
+	{
+		"id": 1476,
+		"name": "Non-Profit",
+		"active": false,
+		"replacement": 1494
+	},
+	{
+		"id": 1474,
+		"name": "Regional",
+		"active": false,
+		"replacement": 1511
+	},
+	{
+		"id": 1512,
+		"name": "Health & Fitness",
+		"children": [1513, 1514, 1518, 1517, 1515, 1516]
+	},
+	{
+		"id": 1513,
+		"name": "Alternative Health",
+		"parent": 1512
+	},
+	{
+		"id": 1514,
+		"name": "Fitness",
+		"parent": 1512
+	},
+	{
+		"id": 1518,
+		"name": "Medicine",
+		"parent": 1512
+	},
+	{
+		"id": 1517,
+		"name": "Mental Health",
+		"parent": 1512
+	},
+	{
+		"id": 1515,
+		"name": "Nutrition",
+		"parent": 1512
+	},
+	{
+		"id": 1516,
+		"name": "Sexuality",
+		"parent": 1512
+	},
+	{
+		"id": 1481,
+		"name": "Alternative Health",
+		"active": false,
+		"replacement": 1513
+	},
+	{
+		"id": 1417,
+		"name": "Fitness & Nutrition",
+		"active": false,
+		"replacement": 1512
+	},
+	{
+		"id": 1420,
+		"name": "Self-Help",
+		"active": false,
+		"replacement": 1512
+	},
+	{
+		"id": 1421,
+		"name": "Sexuality",
+		"active": false,
+		"replacement": 1516
+	},
+	{
+		"id": 1487,
+		"name": "History"
+	},
+	{
+		"id": 1305,
+		"name": "Kids & Family",
+		"children": [1519, 1521, 1522, 1520]
+	},
+	{
+		"id": 1519,
+		"name": "Education for Kids",
+		"parent": 1305
+	},
+	{
+		"id": 1521,
+		"name": "Parenting",
+		"parent": 1305
+	},
+	{
+		"id": 1522,
+		"name": "Pets & Animals",
+		"parent": 1305
+	},
+	{
+		"id": 1520,
+		"name": "Stories for Kids",
+		"parent": 1305
+	},
+	{
+		"id": 1502,
+		"name": "Leisure",
+		"children": [1510, 1503, 1504, 1506, 1507, 1505, 1508, 1509]
+	},
+	{
+		"id": 1307,
+		"name": "Health",
+		"active": false,
+		"replacement": 1512
+	},
+	{
+		"id": 1510,
+		"name": "Animation & Manga",
+		"parent": 1502
+	},
+	{
+		"id": 1503,
+		"name": "Automotive",
+		"parent": 1502
+	},
+	{
+		"id": 1504,
+		"name": "Aviation",
+		"parent": 1502
+	},
+	{
+		"id": 1506,
+		"name": "Crafts",
+		"parent": 1502
+	},
+	{
+		"id": 1507,
+		"name": "Games",
+		"parent": 1502
+	},
+	{
+		"id": 1505,
+		"name": "Hobbies",
+		"parent": 1502
+	},
+	{
+		"id": 1508,
+		"name": "Home & Garden",
+		"parent": 1502
+	},
+	{
+		"id": 1509,
+		"name": "Video Games",
+		"parent": 1502
+	},
+	{
+		"id": 1310,
+		"name": "Music",
+		"children": [1523, 1524, 1525]
+	},
+	{
+		"id": 1523,
+		"name": "Music Commentary",
+		"parent": 1310
+	},
+	{
+		"id": 1524,
+		"name": "Music History",
+		"parent": 1310
+	},
+	{
+		"id": 1525,
+		"name": "Music Interviews",
+		"parent": 1310
+	},
+	{
+		"id": 1489,
+		"name": "News",
+		"children": [1490, 1526, 1531, 1530, 1527, 1528, 1529]
+	},
+	{
+		"id": 1490,
+		"name": "Business News",
+		"parent": 1489
+	},
+	{
+		"id": 1526,
+		"name": "Daily News",
+		"parent": 1489
+	},
+	{
+		"id": 1530,
+		"name": "News Commentary",
+		"parent": 1489
+	},
+	{
+		"id": 1531,
+		"name": "Entertainment News",
+		"parent": 1489
+	},
+	{
+		"id": 1527,
+		"name": "Politics",
+		"parent": 1489
+	},
+	{
+		"id": 1528,
+		"name": "Tech News",
+		"parent": 1489
+	},
+	{
+		"id": 1529,
+		"name": "Sports News",
+		"parent": 1489
+	},
+	{
+		"id": 1311,
+		"name": "News & Politics",
+		"active": false,
+		"replacement": 1489
+	},
+	{
+		"id": 1314,
+		"name": "Religion & Spirituality",
+		"children": [1438, 1463, 1440, 1441, 1439, 1532, 1444]
+	},
+	{
+		"id": 1438,
+		"name": "Buddhism",
+		"parent": 1314
+	},
+	{
+		"id": 1463,
+		"name": "Hinduism",
+		"parent": 1314
+	},
+	{
+		"id": 1440,
+		"name": "Islam",
+		"parent": 1314
+	},
+	{
+		"id": 1441,
+		"name": "Judaism",
+		"parent": 1314
+	},
+	{
+		"id": 1464,
+		"name": "Other",
+		"active": false,
+		"replacement": 1314
+	},
+	{
+		"id": 1439,
+		"name": "Christianity",
+		"parent": 1314
+	},
+	{
+		"id": 1532,
+		"name": "Religion",
+		"parent": 1314
+	},
+	{
+		"id": 1444,
+		"name": "Spirituality",
+		"parent": 1314
+	},
+	{
+		"id": 1533,
+		"name": "Science",
+		"children": [1538, 1539, 1540, 1541, 1534, 1536, 1537, 1542, 1535, 1477]
+	},
+	{
+		"id": 1538,
+		"name": "Astronomy",
+		"parent": 1533
+	},
+	{
+		"id": 1539,
+		"name": "Chemistry",
+		"parent": 1533
+	},
+	{
+		"id": 1540,
+		"name": "Earth Sciences",
+		"parent": 1533
+	},
+	{
+		"id": 1541,
+		"name": "Life Sciences",
+		"parent": 1533
+	},
+	{
+		"id": 1534,
+		"name": "Natural Sciences",
+		"parent": 1533
+	},
+	{
+		"id": 1536,
+		"name": "Mathematics",
+		"parent": 1533
+	},
+	{
+		"id": 1537,
+		"name": "Nature",
+		"parent": 1533
+	},
+	{
+		"id": 1542,
+		"name": "Physics",
+		"parent": 1533
+	},
+	{
+		"id": 1315,
+		"name": "Science & Medicine",
+		"active": false,
+		"replacement": 1533
+	},
+	{
+		"id": 1535,
+		"name": "Social Sciences",
+		"parent": 1533
+	},
+	{
+		"id": 1477,
+		"name": "Natural Sciences",
+		"replacement": 1534,
+		"active": false
+	},
+	{
+		"id": 1479,
+		"name": "Social Sciences",
+		"active": false,
+		"replacement": 1535
+	},
+	{
+		"id": 1324,
+		"name": "Society & Culture",
+		"children": [1543, 1302, 1443, 1320, 1544]
+	},
+	{
+		"id": 1543,
+		"name": "Documentary",
+		"parent": 1324
+	},
+	{
+		"id": 1462,
+		"name": "History",
+		"active": false,
+		"replacement": 1487
+	},
+	{
+		"id": 1478,
+		"name": "Medicine",
+		"active": false,
+		"replacement": 1518
+	},
+	{
+		"id": 1302,
+		"name": "Personal Journals",
+		"parent": 1324
+	},
+	{
+		"id": 1443,
+		"name": "Philosophy",
+		"parent": 1324
+	},
+	{
+		"id": 1320,
+		"name": "Places & Travel",
+		"parent": 1324
+	},
+	{
+		"id": 1544,
+		"name": "Relationships",
+		"parent": 1324
+	},
+	{
+		"id": 1545,
+		"name": "Sports",
+		"children": [
+			1549, 1548, 1554, 1560, 1547, 1553, 1550, 1552, 1551, 1546, 1558, 1556,
+			1557, 1559, 1555
+		]
+	},
+	{
+		"id": 1549,
+		"name": "Baseball",
+		"parent": 1545
+	},
+	{
+		"id": 1548,
+		"name": "Basketball",
+		"parent": 1545
+	},
+	{
+		"id": 1554,
+		"name": "Cricket",
+		"parent": 1545
+	},
+	{
+		"id": 1560,
+		"name": "Fantasy Sports",
+		"parent": 1545
+	},
+	{
+		"id": 1547,
+		"name": "Football",
+		"parent": 1545
+	},
+	{
+		"id": 1553,
+		"name": "Golf",
+		"parent": 1545
+	},
+	{
+		"id": 1550,
+		"name": "Hockey",
+		"parent": 1545
+	},
+	{
+		"id": 1552,
+		"name": "Rugby",
+		"parent": 1545
+	},
+	{
+		"id": 1551,
+		"name": "Running",
+		"parent": 1545
+	},
+	{
+		"id": 1546,
+		"name": "Soccer",
+		"parent": 1545
+	},
+	{
+		"id": 1558,
+		"name": "Swimming",
+		"parent": 1545
+	},
+	{
+		"id": 1556,
+		"name": "Tennis",
+		"parent": 1545
+	},
+	{
+		"id": 1557,
+		"name": "Volleyball",
+		"parent": 1545
+	},
+	{
+		"id": 1559,
+		"name": "Wilderness",
+		"parent": 1545
+	},
+	{
+		"id": 1555,
+		"name": "Wrestling",
+		"parent": 1545
+	},
+	{
+		"id": 1316,
+		"name": "Sports & Recreation",
+		"active": false,
+		"replacement": 1545
+	},
+	{
+		"id": 1467,
+		"name": "Amateur",
+		"active": false,
+		"replacement": 1545
+	},
+	{
+		"id": 1466,
+		"name": "College & High School",
+		"active": false,
+		"replacement": 1545
+	},
+	{
+		"id": 1456,
+		"name": "Outdoor",
+		"active": false,
+		"replacement": 1545
+	},
+	{
+		"id": 1465,
+		"name": "Professional",
+		"active": false,
+		"replacement": 1545
+	},
+	{
+		"id": 1309,
+		"name": "TV & Film",
+		"children": [1562, 1564, 1565, 1563, 1561]
+	},
+	{
+		"id": 1562,
+		"name": "After Shows",
+		"parent": 1309
+	},
+	{
+		"id": 1564,
+		"name": "Film History",
+		"parent": 1309
+	},
+	{
+		"id": 1565,
+		"name": "Film Interviews",
+		"parent": 1309
+	},
+	{
+		"id": 1563,
+		"name": "Film Reviews",
+		"parent": 1309
+	},
+	{
+		"id": 1561,
+		"name": "TV Reviews",
+		"parent": 1309
+	},
+	{
+		"id": 1318,
+		"name": "Technology"
+	},
+	{
+		"id": 1446,
+		"name": "Gadgets",
+		"active": false,
+		"replacement": 1318
+	},
+	{
+		"id": 1450,
+		"name": "Podcasting",
+		"active": false,
+		"replacement": 1318
+	},
+	{
+		"id": 1480,
+		"name": "Software How-To",
+		"active": false,
+		"replacement": 1318
+	},
+	{
+		"id": 1488,
+		"name": "True Crime"
+	},
+	{
+		"id": 1448,
+		"name": "Tech News",
+		"active": false,
+		"replacement": 1528
+	},
+	{
+		"id": 1323,
+		"name": "Games & Hobbies",
+		"active": false,
+		"replacement": 1502
+	},
+	{
+		"id": 1454,
+		"name": "Automotive",
+		"active": false,
+		"replacement": 1503
+	},
+	{
+		"id": 1455,
+		"name": "Aviation",
+		"active": false,
+		"replacement": 1504
+	},
+	{
+		"id": 1460,
+		"name": "Hobbies",
+		"active": false,
+		"replacement": 1505
+	},
+	{
+		"id": 1461,
+		"name": "Other Games",
+		"active": false,
+		"replacement": 1502
+	},
+	{
+		"id": 1404,
+		"name": "Video Games",
+		"active": false,
+		"replacement": 1509
+	},
+	{
+		"id": 1472,
+		"name": "Shopping",
+		"active": false,
+		"replacement": 1321
+	}
+]
